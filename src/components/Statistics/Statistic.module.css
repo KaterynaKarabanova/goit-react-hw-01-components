@@ -1,0 +1,20 @@
+.statistics {
+  width: min-content;
+  margin: 50px auto;
+  border: 1px solid rgb(136, 121, 137, 0.5);
+  box-shadow: -2px 5px 23px -2px rgba(0, 0, 0, 0.75);
+  background-color: white;
+}
+.title {
+  text-align: center;
+  letter-spacing: 2px;
+  color: rgb(98, 102, 106);
+  font-weight: 600;
+}
+.stat_list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
